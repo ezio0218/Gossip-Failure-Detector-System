@@ -1,4 +1,7 @@
-# Run go build Server.go and then go run Server.go on each node
+# Gossip-Failure-Detector-System
+
+
+Run go build Server.go and then go run Server.go on each node
 
 
 And type "join" for join

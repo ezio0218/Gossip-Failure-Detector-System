@@ -1,4 +1,5 @@
-#Run go build Server.go and then go run Server.go on each node
+##Run go build Server.go and then go run Server.go on each node
+
 
 And type "join" for join
 
